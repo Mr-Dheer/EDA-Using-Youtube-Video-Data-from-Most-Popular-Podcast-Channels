@@ -4,15 +4,15 @@ This project focuses on conducting an in-depth analysis of YouTube videos in the
 ### Project Steps
 
 ### Obtaining Video Metadata via YouTube API:
-1.Utilized the YouTube API to retrieve video metadata for the top 10-15 channels in the podcast niche.
+1. Utilized the YouTube API to retrieve video metadata for the top 10-15 channels in the podcast niche.
 Created a developer key and made API requests to gather data on video titles, durations, likes, comments, and tags.
 Transformed the received responses into a usable data format for further analysis.
 
-2.Preprocessing and Feature Engineering:
+2. Preprocessing and Feature Engineering:
 Performed preprocessing on the acquired data to ensure data quality and enhance analysis capabilities.
 Conducted feature engineering to extract meaningful insights from the available information.
 
-3.Exploratory Data Analysis:
+3. Exploratory Data Analysis:
 Delved into the dataset to uncover patterns, correlations, and trends through exploratory data analysis.
 - Investigated relationships between factors such as the number of likes/comments and video views, video duration and interaction, and title length and views.
 - Explored tag usage among successful videos to identify common tags that contribute to their performance.
