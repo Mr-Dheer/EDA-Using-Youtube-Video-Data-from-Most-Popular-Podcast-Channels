@@ -24,15 +24,6 @@ Delved into the dataset to uncover patterns, correlations, and trends through ex
 - Explored the upload frequency and preferred upload days of creators in the podcast niche.
 
 
-#### To use this project:
-
-- Clone the repository to your local machine.
-- Ensure you have the required dependencies installed as specified in the requirements file.
-- Follow the instructions in the project documentation to obtain the YouTube video metadata via the YouTube API.
-- Preprocess the data using the provided scripts to ensure data quality and enhance analysis capabilities.
-- Explore the dataset and gain insights through the provided notebooks for exploratory data analysis.
-- Review the conclusions drawn from the analysis to understand the factors influencing video performance in the podcast niche.
-
 #### Contributions
 
 Contributions to this project are welcome. If you find any improvements or additional features that could enhance the analysis, feel free to fork the repository and submit pull requests to contribute to its development.
@@ -40,7 +31,3 @@ Contributions to this project are welcome. If you find any improvements or addit
 #### License
 
 This project is licensed under the MIT License. You are free to modify and distribute the code as per the terms of this license.
-
-#### Acknowledgments
-
-I would like to express my appreciation to the YouTube API for providing access to video metadata, as well as to the open-source community for the valuable resources and tools that have contributed to the development of this project.
